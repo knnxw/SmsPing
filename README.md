@@ -1,4 +1,4 @@
-
+[![Hits](https://hits.sh/github.com/knnxw/SmsPing.svg?style=plastic&label=G%C3%96R%C3%9CNT%C3%9CL%C3%9CME)](https://hits.sh/github.com/knnxw/SmsPing/)
 <h2>Kurulum</h2>
 
 
